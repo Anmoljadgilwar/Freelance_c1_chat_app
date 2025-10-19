@@ -2,7 +2,7 @@
 
 A real-time customer support chat application built with React, Node.js, and Socket.IO.
 
-## Features
+## Features of App
 
 - **User Authentication**: Register and login functionality
 - **Role-based Access**: Admin and regular user roles
